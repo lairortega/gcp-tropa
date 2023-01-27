@@ -1,0 +1,23 @@
+{
+  "name": "gcp-tropa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lairortega/gcp-tropa.git"
+  },
+  "devDependencies": {
+    "serverless-google-cloudfunctions": "*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lairortega/gcp-tropa/issues"
+  },
+  "homepage": "https://github.com/lairortega/gcp-tropa#readme"
+}
